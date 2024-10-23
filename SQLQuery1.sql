@@ -1,0 +1,10 @@
+CREATE DATABASE EmpleadosDB;
+
+USE EmpleadosDB;
+
+CREATE TABLE Empleados (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    ApellidoNombre NVARCHAR(100) NOT NULL,
+    DNI CHAR(11) NOT NULL UNIQUE,
+    SueldoBruto DECIMAL(18, 2) NOT NULL
+);

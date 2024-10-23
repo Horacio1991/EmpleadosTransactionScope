@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\UI.csproj|c:\\users\\hory_\\downloads\\empleadossueldo\\empleadossueldo\\empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\UI.csproj|solutionrelative:empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999FDD89-FFAA-416E-B39F-4C89C360A1F5}|Entity\\Entity.csproj|c:\\users\\hory_\\downloads\\empleadossueldo\\empleadossueldo\\entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999FDD89-FFAA-416E-B39F-4C89C360A1F5}|Entity\\Entity.csproj|solutionrelative:entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D938E063-1471-4F40-82EB-5B0DAD99C43E}|DAL\\DAL.csproj|c:\\users\\hory_\\downloads\\empleadossueldo\\empleadossueldo\\dal\\empleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D938E063-1471-4F40-82EB-5B0DAD99C43E}|DAL\\DAL.csproj|solutionrelative:dal\\empleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5F6F31-7842-4E1B-B6AF-9AD2D1E5B5D3}|BLL\\BLL.csproj|c:\\users\\hory_\\downloads\\empleadossueldo\\empleadossueldo\\bll\\empleadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5F6F31-7842-4E1B-B6AF-9AD2D1E5B5D3}|BLL\\BLL.csproj|solutionrelative:bll\\empleadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\UI.csproj|C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\UI.csproj|solutionrelative:empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\EmpleadosSueldo.csproj|C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41FBB084-2F37-4B87-8865-322D86D600AE}|EmpleadosSueldo\\EmpleadosSueldo.csproj|solutionrelative:empleadossueldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpleadosSueldo\\Form1.cs",
+              "ToolTip": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs [Design]",
+              "RelativeToolTip": "EmpleadosSueldo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:14:20.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\Entity\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entity\\Empleado.cs",
+              "ToolTip": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\Entity\\Empleado.cs",
+              "RelativeToolTip": "Entity\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:31:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\BLL\\EmpleadoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EmpleadoBLL.cs",
+              "ToolTip": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\BLL\\EmpleadoBLL.cs",
+              "RelativeToolTip": "BLL\\EmpleadoBLL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:30:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpleadosSueldo\\Form1.cs",
+              "ToolTip": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs",
+              "RelativeToolTip": "EmpleadosSueldo\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:32:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\DAL\\EmpleadoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\EmpleadoDAL.cs",
+              "ToolTip": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\DAL\\EmpleadoDAL.cs",
+              "RelativeToolTip": "DAL\\EmpleadoDAL.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:27:29.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hory_\\Downloads\\EmpleadosSueldo\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpleadosSueldo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Educaccion\\source\\repos\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Educaccion\\source\\repos\\EmpleadosSueldo\\EmpleadosSueldo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:26:40.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
